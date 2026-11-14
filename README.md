@@ -59,7 +59,7 @@ It explores word similarity and sentiment analysis to understand the meaning and
 
 
 
-## 👩‍💻 Author
+##  Author
 
 **Nivyamol K N**
 
